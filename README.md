@@ -1,8 +1,8 @@
 ## Hello 👋
 
 I'm **Erik**
-👨‍🎓 A part-time Front-End Developer student at Noroff.
-🚀 Want to learn how to create engaging and user-friendly online experiences.
+- 👨‍🎓 A part-time Front-End Developer student at Noroff.
+- 🚀 Want to learn how to create engaging and user-friendly online experiences.
 
 # 📚 My Learning Focus:
 - **HTML**, **CSS** and **JavaScript**
